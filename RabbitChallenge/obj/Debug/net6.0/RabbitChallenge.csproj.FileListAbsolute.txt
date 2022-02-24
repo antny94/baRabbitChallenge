@@ -1,0 +1,15 @@
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\bin\Debug\net6.0\RabbitChallenge.exe
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\bin\Debug\net6.0\RabbitChallenge.deps.json
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\bin\Debug\net6.0\RabbitChallenge.runtimeconfig.json
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\bin\Debug\net6.0\RabbitChallenge.dll
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\bin\Debug\net6.0\ref\RabbitChallenge.dll
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\bin\Debug\net6.0\RabbitChallenge.pdb
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.csproj.AssemblyReference.cache
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.AssemblyInfoInputs.cache
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.AssemblyInfo.cs
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.csproj.CoreCompileInputs.cache
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.dll
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\ref\RabbitChallenge.dll
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.pdb
+C:\Users\puuv4\source\repos\RabbitChallenge\RabbitChallenge\obj\Debug\net6.0\RabbitChallenge.genruntimeconfig.cache
